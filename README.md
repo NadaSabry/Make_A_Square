@@ -8,6 +8,8 @@ form a 4x4 square without any gaps, it should automatically rotate or flip the
 pieces or keep them on their original state to form that perfect 4x4 square.</p>
 
 <!-- cover -->
+![image](https://user-images.githubusercontent.com/95171238/154209739-bc59eaa8-2bc0-4a7c-9437-2c8958514b7e.png)
+
 ![Untitled](https://user-images.githubusercontent.com/73343985/151662517-7ad6ba8f-d55c-40ca-85e6-43c3f63fdab5.png)
 
 <h3 align="left">Connect with Us:</h3>
