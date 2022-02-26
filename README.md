@@ -1,4 +1,6 @@
-<h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, Welocme to 'Make A Square Game'</h1>
+<h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, Welocme to 'Make A Square Game'
+ <img src="https://th.bing.com/th/id/R.81830816e35b1b6e04c1b86cd5d8cdd8?rik=ft4Ex4P2n%2bEhkA&pid=ImgRaw&r=0" width="50px" height="50px">
+</h1>
 
 <h2 align="left">What is Square Game:</h3>
 <p>Our project is more like a game called “Tetris”, it’s about putting pieces falling 
